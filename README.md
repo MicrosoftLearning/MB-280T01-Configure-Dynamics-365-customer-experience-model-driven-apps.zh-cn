@@ -1,3 +1,11 @@
+#README
+
+We've turned off the ability to report issues directly on this repo and do not monitor PRs.
+
+Provide feedback here: https://aka.ms/provide-feedback
+
+Or, if you are a trainer with a microsoft.com email address, please create a ticket in AzDO.
+
 # MB-280T01：配置 Dynamics 365 客户体验模型驱动应用
 
 此存储库包含用于 Microsoft 技能内容的练习和支持文件。
